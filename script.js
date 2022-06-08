@@ -1,5 +1,7 @@
 function SayGit(){
     alert('Hello git')
 }
-//Add commit
-//Add second commit
+
+function Work(){
+    alert('Go to work')
+}
