@@ -1,10 +1,10 @@
-function SayGit(){
-    alert('Hello git')
-}
+// function SayGit(){
+//     alert('Hello git')
+// }
 
-function Work(){
-    alert('Go to work')
-}
+// function Work(){
+//     alert('Go to work')
+// }
 
 function Push(){
     alert('Push me')
