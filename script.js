@@ -1,9 +1,9 @@
 // function SayGit(){
-//     alert('Hello git')
+//   alert('Hello git')
 // }
 
 // function Work(){
-//     alert('Go to work')
+//   alert('Go to work')
 // }
 
 function Push(){
